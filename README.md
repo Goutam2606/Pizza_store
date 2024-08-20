@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Demo
 
-In the project directory, you can run:
+![Screenshot 2024-08-20 154309](https://github.com/user-attachments/assets/123762e5-aab0-44a5-98ee-730f44cfed70)
+![Screenshot 2024-08-20 154332](https://github.com/user-attachments/assets/e3a719be-550a-4241-9640-b6efdd3439aa)
+![Screenshot 2024-08-20 154353](https://github.com/user-attachments/assets/31421f24-1c0b-4a47-b432-95b67a8a36a3)
+![Screenshot 2024-08-20 154415](https://github.com/user-attachments/assets/e4fc298a-91b5-4abc-a963-f967757e857f)
+![Screenshot 2024-08-20 154431](https://github.com/user-attachments/assets/838d3419-6a70-45bb-8a55-4b536f4bb768)
+![Screenshot 2024-08-20 154449](https://github.com/user-attachments/assets/e3fd5159-4183-4b3b-98f6-ba1e8eb0cb6a)
+![Screenshot 2024-08-20 154506](https://github.com/user-attachments/assets/7a0bc430-b815-459e-8ea9-4e3cb2fb19d6)
+![Screenshot 2024-08-20 154523](https://github.com/user-attachments/assets/788d2b14-84af-4ea3-9368-bceb720c7f22)
+
 
 ### `npm start`
 
